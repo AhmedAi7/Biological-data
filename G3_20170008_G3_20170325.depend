@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1544440995 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<string>
+
+1544441838 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\codonstable.h
+	<iostream>
+	<string>
+	"CodonsTable.h"
+
+1544441289 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\dna.cpp
+	"DNA.h"
+	<iostream>
+	<string>
+
+1544442910 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\dna.h
+	<iostream>
+	<string>
+	"RNA.h"
+	"Sequence.h"
+
+1544442889 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\rna.h
+	<iostream>
+	<string>
+	"DNA.h"
+	"Protein.h"
+	"Sequence.h"
+	"CodonsTable.h"
+
+1544442852 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\protein.h
+	<iostream>
+	<string>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+
+1544444283 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\sequence.h
+	<iostream>
+	<string>
+
+1544444301 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\main.cpp
+	<iostream>
+	<string>
+
+1544441262 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\protein.cpp
+	"Protein.h"
+	<iostream>
+	<string>
+
+1544441244 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\rna.cpp
+	"RNA.h"
+	<iostream>
+	<string>
+
+1544442987 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\g3_20170008_g3_20170325\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	<string>
+
+1544818441 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<cstring>
+
+1544818454 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\codonstable.h
+	<iostream>
+	<cstring>
+	"CodonsTable.h"
+	<fstream>
+
+1544822251 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\protein.cpp
+	"Protein.h"
+	<iostream>
+	<cstring>
+	"CodonsTable.h"
+
+1544785980 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\protein.h
+	<iostream>
+	<cstring>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+
+1544749160 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\sequence.h
+	<iostream>
+	<cstring>
+
+1544813678 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\dna.h
+	<iostream>
+	<cstring>
+	"RNA.h"
+	"Sequence.h"
+
+1544778455 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\rna.h
+	<iostream>
+	<cstring>
+	"DNA.h"
+	"Protein.h"
+	"Sequence.h"
+	"CodonsTable.h"
+
+1544815036 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\rna.cpp
+	"RNA.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1544813665 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\dna.cpp
+	"DNA.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1544749152 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1544822986 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\test\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<Sequence.h>
+	<DNA.h>
+	<RNA.h>
+	<Protein.h>
+	<CodonsTable.h>
+
+1544818441 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<cstring>
+
+1544818454 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\codonstable.h
+	<iostream>
+	<cstring>
+	"CodonsTable.h"
+	<fstream>
+
+1544813665 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\dna.cpp
+	"DNA.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1544813678 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\dna.h
+	<iostream>
+	<cstring>
+	"RNA.h"
+	"Sequence.h"
+
+1544778455 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\rna.h
+	<iostream>
+	<cstring>
+	"DNA.h"
+	"Protein.h"
+	"Sequence.h"
+	"CodonsTable.h"
+
+1544785980 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\protein.h
+	<iostream>
+	<cstring>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+
+1544749160 b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\sequence.h
+	<iostream>
+	<cstring>
+
+1544822251 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\protein.cpp
+	"Protein.h"
+	<iostream>
+	<cstring>
+	"CodonsTable.h"
+
+1544815036 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\rna.cpp
+	"RNA.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1544823053 source:b:\fci\level 2\prog2\assignments\assignment4\2nd phase\biological-data\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
